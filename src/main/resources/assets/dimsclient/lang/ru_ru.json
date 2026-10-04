@@ -1,0 +1,13 @@
+{
+  "key.dimsclient.open": "Открыть DimSClient",
+  "key.dimsclient.movehud": "Двигать интерфейс DimSClient",
+  "key.dimsclient.dash": "Рывок DimSClient",
+	"key.dimsclient.airhold": "Зависнуть в воздухе",
+	"key.dimsclient.airdrop": "Упасть",
+	"key.dimsclient.airup": "Телепорт вверх",
+	"key.dimsclient.freecam": "Свободная камера",
+	"key.dimsclient.teleport": "Телепорт",
+  "key.category.dimsclient.dimsclient": "DimSClient",
+	"key.dimsclient.hide": "Скрыть DimS",
+  "key.dimsclient.chase": "Килл-аура"
+}

@@ -1,0 +1,13 @@
+{
+  "key.dimsclient.open": "Open DimSClient",
+  "key.dimsclient.movehud": "Move DimSClient HUD",
+  "key.dimsclient.dash": "DimSClient dash",
+	"key.dimsclient.airhold": "Hang in the air",
+	"key.dimsclient.airdrop": "Drop",
+	"key.dimsclient.airup": "Teleport up",
+	"key.dimsclient.freecam": "Free camera",
+	"key.dimsclient.teleport": "Teleport",
+  "key.category.dimsclient.dimsclient": "DimSClient",
+	"key.dimsclient.hide": "Hide DimS",
+  "key.dimsclient.chase": "KillAura"
+}

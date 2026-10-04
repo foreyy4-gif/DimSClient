@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "dev.foreyy.dimsclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "PlayerPickMixin",
+    "ChaseMixin",
+    "HitboxDebugMixin",
+    "AttackMarginMixin",
+    "NoFallMixin",
+    "GodMixin",
+    "ElytraDashMixin",
+    "AirStuckMixin",
+    "FreeCamMixin",
+    "FreeF5Mixin",
+    "FlyPickMixin",
+    "ClearLavaMixin",
+    "NoDarknessMixin",
+    "SeeInvisibleMixin"
+  ]
+}
